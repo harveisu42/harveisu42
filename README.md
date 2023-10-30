@@ -10,6 +10,12 @@ My background is in electronic design, system engineering,physics,mathematics,
 sci-fi,s/w development, configuration management, ....
 I'm just a science and technology geek.
 
+I like to conduct private studies, analysis, create customized prorocols,etc.
+optimized metrics for processes and methods.
+It seems like the exercize is like peeling an onion- most of the time it seems 
+like I never get anywhere. Maybe these apps like asana and/or workona will
+help solve these issues. 
+
 
 
 harveisu42/harveisu42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
